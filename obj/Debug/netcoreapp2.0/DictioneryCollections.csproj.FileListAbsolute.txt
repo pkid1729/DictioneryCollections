@@ -1,0 +1,10 @@
+F:\ZPractice\DictioneryCollections\bin\Debug\netcoreapp2.0\DictioneryCollections.deps.json
+F:\ZPractice\DictioneryCollections\bin\Debug\netcoreapp2.0\DictioneryCollections.runtimeconfig.json
+F:\ZPractice\DictioneryCollections\bin\Debug\netcoreapp2.0\DictioneryCollections.runtimeconfig.dev.json
+F:\ZPractice\DictioneryCollections\bin\Debug\netcoreapp2.0\DictioneryCollections.dll
+F:\ZPractice\DictioneryCollections\bin\Debug\netcoreapp2.0\DictioneryCollections.pdb
+F:\ZPractice\DictioneryCollections\obj\Debug\netcoreapp2.0\DictioneryCollections.csproj.CoreCompileInputs.cache
+F:\ZPractice\DictioneryCollections\obj\Debug\netcoreapp2.0\DictioneryCollections.AssemblyInfoInputs.cache
+F:\ZPractice\DictioneryCollections\obj\Debug\netcoreapp2.0\DictioneryCollections.AssemblyInfo.cs
+F:\ZPractice\DictioneryCollections\obj\Debug\netcoreapp2.0\DictioneryCollections.dll
+F:\ZPractice\DictioneryCollections\obj\Debug\netcoreapp2.0\DictioneryCollections.pdb
